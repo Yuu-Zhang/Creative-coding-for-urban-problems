@@ -3,7 +3,7 @@
 This repository contains a series of projects completed by me and my teammates during my master’s degree - Urban Data Science and Analytics at the University of Leeds. Each project addressed a unique urban challenge using data-driven approaches. The included PDF files contain coding outputs (Python and QGIS), presentation slides, and comprehensive analysis results. I welcome any discussions on these topics.
 
 ### 🍜 Topic 1 - Understanding our food environments
-* We explored the food environments in Leeds, focusing on the distribution of healthy and unhealthy food options, advertisement assets, and socioeconomic factors.
+* This project explored the food environments in Leeds, focusing on the distribution of healthy and unhealthy food options, advertisement assets, and socioeconomic factors.
 * Using various datasets like IMD scores, obesity rates, and OpenStreetMap data, the project analysed the correlation between food accessibility and public health outcomes.
 * Techniques include <em>**geospatial mapping, data visualisation, and statistical analysis**</em>.
 
